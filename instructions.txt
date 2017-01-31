@@ -1,0 +1,3 @@
+D:\Projects\SunDATV2 - where the sundat_loader shd be placed
+C:\Program Files\Google\Google SketchUp 8\Plugins - where sundat_extension shd be placed wit sundat_loader path changed to above
+s
